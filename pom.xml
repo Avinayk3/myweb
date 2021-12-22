@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url></url>
+		    <url>http://</url>
 		</repository>
   	</distributionManagement>
 	
